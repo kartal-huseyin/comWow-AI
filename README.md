@@ -2,7 +2,7 @@
 
 
 
-	PLEASE KINDLY RUN THE RUNNER CLASS.
+	Please kindly run the runner class "src/test/java/runners/Runner.java"
 	REPORT can be seen at test-output/Cucumber.html
 	SCREENSHOTS can be seen at test-output/*.png
 	NOT to be expected to pass all scenarios.
