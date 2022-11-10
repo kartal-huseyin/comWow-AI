@@ -1,13 +1,13 @@
 # comWow-AI
 
 
-
 	Please kindly run the runner class "src/test/java/runners/Runner.java"
 	REPORT can be seen at test-output/Cucumber.html
 	SCREENSHOTS can be seen at test-output/*.png
 	NOT to be expected to pass all scenarios.
 
 	Since it is not possible to test all function in limited time.
+	I have gone for 2nd option (Automation + Test Case)
 	I started to test the website manually first.
 	Due to one of principle of tests "defects cluster together",
 	I focused my automation test on buggy functions.
