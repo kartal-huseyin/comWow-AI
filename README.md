@@ -16,6 +16,7 @@
 	Bugs:
 
 	Medium Priority: The crucial feature of the website is contaction.
+	"https://wow-ai.com/contact" page
 	Contact form accepts names in integer.
 	Contact form accepts lastnames in integer.
 	Contact form accepts phone numbers in String.
@@ -24,6 +25,8 @@
 
 	Low Priority:
 	"https://wow-ai.com/event" Expired event accepts applications.
+	"https://wow-ai.com/" video can be slided on FIREFOX while can not be slided on CHROME.
+	
 
 	Minor Bugs (Visual)
 	- "https://wow-ai.com/data-annotation" video data annotation expected
